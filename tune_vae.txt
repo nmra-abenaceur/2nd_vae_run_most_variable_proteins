@@ -1,0 +1,6 @@
+index  154
+latent_dim  8
+hidden_dim  20
+epochs  120
+learning_rate   -3
+kl_div_loss_weight  0.5
